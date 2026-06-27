@@ -1,0 +1,38 @@
+[
+    {
+        "id": "63e85949-7c3a-42ce-9dc3-ca59bd8e5231",
+        "fullName": "Umang Ruhela",
+        "email": "admin@gmail.com",
+        "phone": "9874563211",
+        "dob": "2026-06-27",
+        "companyName": "Techfly",
+        "gstNumber": "29AAAAA1111A1ZZ",
+        "companyEmail": "company@gmail.com",
+        "website": "https://example.com",
+        "companyAddress": "jodhpur rajasthan"
+    },
+    {
+        "id": "e76f7e7c-f1fd-4889-bf09-26f83c256a11",
+        "fullName": "Umang Ruhela",
+        "email": "admin@gmail.com",
+        "phone": "9874563211",
+        "dob": "2026-06-27",
+        "companyName": "Techfly",
+        "gstNumber": "29AAAAA1111A1ZZ",
+        "companyEmail": "company@gmail.com",
+        "website": "https://example.com",
+        "companyAddress": "jodhpur rajasthan"
+    },
+    {
+        "id": "bdc1856f-b93e-493f-b4dd-d641db4bac63",
+        "fullName": "Umang Ruhela",
+        "email": "admin@gmail.com",
+        "phone": "9874563211",
+        "dob": "2026-06-27",
+        "companyName": "Sumang industry",
+        "gstNumber": "29AAAAA1111A1ZZ",
+        "companyEmail": "company@gmail.com",
+        "website": "https://example.com",
+        "companyAddress": "jodhpur rajasthan"
+    }
+]
